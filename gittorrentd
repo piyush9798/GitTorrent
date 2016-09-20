@@ -189,4 +189,4 @@ dht.on('ready', function () {
     })
   }).listen(config.dht.announce)
 })
-end
+
